@@ -6,11 +6,7 @@
     <language>en-us</language>
     <itunes:author>Evan Hackett</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <image>
-      <url>https://evanhackett.com/rss-feed-test/podcast-image.jpg</url>
-      <title>Evan's Podcast</title>
-      <link>https://evanhackett.com</link>
-    </image>
+    <itunes:image href="https://evanhackett.com/rss-feed-test/podcast-image.jpg" />
 
     <item>
       <title>Test Episode 1</title>
