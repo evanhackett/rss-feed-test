@@ -23,5 +23,16 @@
       <itunes:duration>00:00:02</itunes:duration>
     </item>
 
+    <item>
+      <title>Test Episode 2</title>
+      <link>https://archive.org/details/podcast_feed_test_20241113</link>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <description>This is test episode #2.</description>
+      <enclosure url="https://archive.org/download/podcast_feed_test_20241113/test-2.mp3" length="84679" type="audio/mpeg" />
+      <pubDate>Wed, 13 Nov 2024 13:00:00 +0000</pubDate>
+      <itunes:duration>00:00:04</itunes:duration>
+    </item>
+
   </channel>
 </rss>
