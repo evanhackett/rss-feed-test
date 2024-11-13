@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Evan's Podcast</title>
     <link>https://archive.org/details/podcast_feed_test_20241113</link>
@@ -7,7 +6,11 @@
     <language>en-us</language>
     <itunes:author>Evan Hackett</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://evanhackett.com/rss-feed-test/podcast-image.webp" />
+    <image>
+      <url>https://evanhackett.com/rss-feed-test/podcast-image.jpg</url>
+      <title>Evan's Podcast</title>
+      <link>https://yourwebsite.com</link>
+    </image>
 
     <item>
       <title>Test Episode 1</title>
