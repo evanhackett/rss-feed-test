@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Podcast Feed Test</title>
+    <title>Evan's Podcast</title>
     <link>https://archive.org/details/podcast_feed_test_20241113</link>
-    <description>This is a test podcast feed hosted on Archive.org</description>
+    <description>This is a test podcast. Mp3 files are on archive.org, rss feed file is on evanhackett.com (via github.com).</description>
     <language>en-us</language>
     <itunes:author>Evan Hackett</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://archive.org/download/podcast_feed_test_20241113/your-podcast-image.jpg" />
+    <itunes:image href="https://evanhackett.com/rss-feed-test/podcast-image.webp" />
 
     <item>
       <title>Test Episode 1</title>
       <link>https://archive.org/details/podcast_feed_test_20241113</link>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <description>This is a test episode for the Archive.org podcast feed.</description>
       <enclosure url="https://archive.org/download/podcast_feed_test_20241113/test-1.mp3" length="58975" type="audio/mpeg" />
       <pubDate>Wed, 13 Nov 2024 12:00:00 +0000</pubDate>
